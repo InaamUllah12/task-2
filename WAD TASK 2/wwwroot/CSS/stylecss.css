@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 150px;
+    width: 100%;    
+    background-color: rgb(90, 224, 224);
+}
+nav .menu h1{
+    display: inline-block;
+    float: center;
+    letter-spacing: normal;
+    list-style: none;
+}
+div :hover{
+    color: aqua;
+}
+h1{
+    color: red;
+    font-weight: bold;
+}
+h3 ul li{
+color: brown;
+
+}
+h3{
+    color: #000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
